@@ -8,11 +8,13 @@ html {
     height: 100%;
     margin: 0;
     padding: 0;
+    background-color: $bg-color;
 }
 body {
     margin: 0;
     font-family: "Inconsolata";
     height: 100%;
+    color: $text-color;
 }
 a {
     text-decoration: none;
@@ -20,6 +22,7 @@ a {
 }
 a:hover {
     text-decoration: underline;
+    color: $accent-light;
 }
 hr {
     border: 0;
@@ -34,7 +37,7 @@ hr {
 
 #author-name {
     font-size: 30px;
-    color: #272727;
+    color: $nav-color;
     display: inline-block;
 }
 .navbar {
@@ -49,6 +52,12 @@ hr {
 .nav-list {
     list-style-type: none;
     margin: 0 5px 0 10px;
+}
+.nav-list a {
+    color: $nav-color;
+}
+.nav-list a:hover {
+    color: $accent;
 }
 .alignable {
     display: inline-block;
