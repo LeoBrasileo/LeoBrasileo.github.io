@@ -21,6 +21,3 @@ nav:
    link: ""
  - name: "cv"
    link: "/cv.pdf"
-
-plugins:
-  - jekyll-remote-theme
