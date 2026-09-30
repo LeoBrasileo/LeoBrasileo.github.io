@@ -1,15 +1,16 @@
-title: Researcher
+title: Leonel Braginski
 url: "https://leobrasileo.github.io"
-baseurl: "/researcher"
+baseurl: "/"
 
 markdown: kramdown
+remote_theme: ankitsultana/researcher@gem
 #ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/LeoBrasileo"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Website forked from this repo"
 
 sass:
     style: compressed
@@ -17,10 +18,8 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
    link: "contact"
-
-remote_theme: ankitsultana/researcher@gem
