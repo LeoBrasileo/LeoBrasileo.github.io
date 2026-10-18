@@ -18,7 +18,7 @@ Outside of work, I practice calisthenics, play foosbal (metegol as we call it in
 ## Experience
 
 - **Graduate Teaching Assistant – Programming Languages Paradigms**, Faculty of Exact and Natural Sciences, UBA · August 2026 – Present
-- **Research Intern – High-Performance Computing**, [Instituto de Ciencias de la Computación](https://icc.fcen.uba.ar), HPC Lab, UBA · March 2026 – Present
+- **Research Intern – High-Performance Computing**, [Instituto de Ciencias de la Computación, HPC Lab](https://www.hpclatam.org/), UBA · March 2026 – Present
 - **Teaching Assistant – Algorithms and Data Structures**, Faculty of Exact and Natural Sciences, UBA · March 2025 – Present
 - **Software Developer**, [MRM Analytics](https://www.mrmanalytics.com/) · May 2025 – December 2025
 - **Mobile & Backend Developer**, Freelance (Full occupation) · March 2023 – May 2025
